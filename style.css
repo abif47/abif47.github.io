@@ -49,7 +49,7 @@ h1,h2,p,b,a{
     padding: 16px;
     height: auto;
 }
-.perkenalan, .riwayat_pendidikan, .Keterampilan, .riwayat_pelatihan, .bottom,.bottom_penutup{
+.perkenalan, .riwayat_pendidikan, .Keterampilan, .riwayat_pelatihan, .Daftar_Tugas{
     box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%);
     background-color: #fff;
     text-align: center;
